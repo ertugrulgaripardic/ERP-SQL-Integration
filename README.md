@@ -1,1 +1,1 @@
-sql query added
+ERP programlarından veritabanını çekilmesini sağlamaktadır.
