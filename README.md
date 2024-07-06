@@ -4,6 +4,8 @@
 
 This project demonstrates the process of extracting and analyzing data from the Nebim ERP system, an older and more complex ERP solution. The workflow involves connecting to a remote computer, establishing a secure VPN connection, and executing SQL queries to retrieve the required data. The project then details the steps involved in data mining, ETL processes, data migration, and performance optimization. This comprehensive approach ensures the integration of data into a data warehouse and the creation of analytical dashboards for business intelligence (BI) purposes.
 
+![WhatsApp Image 2024-07-06 at 15 00 32](https://github.com/ertugrulgaripardic/Sql-For-ERP/assets/118535200/bb5bfa51-6cdd-4def-bb76-9916619199da)
+
 ## Project Steps
 
 1. **Start**
@@ -45,6 +47,10 @@ This project demonstrates the process of extracting and analyzing data from the 
 13. **End**
     - Complete the data extraction and analysis process, ensuring that all steps have been properly executed and documented.
 
+![WhatsApp Image 2024-07-06 at 15 01 29](https://github.com/ertugrulgaripardic/Sql-For-ERP/assets/118535200/55679d47-ccbb-4781-9b41-6b1b58fe23a6)
+![Ekran görüntüsü 2024-07-06 150051](https://github.com/ertugrulgaripardic/Sql-For-ERP/assets/118535200/7641d2e9-df75-4f0f-bd26-fac6d20dd4ef)
+
+
 ## Technologies Used
 
 - **Nebim ERP**: The source ERP system from which data is extracted.
@@ -55,12 +61,16 @@ This project demonstrates the process of extracting and analyzing data from the 
 - **Data Warehouse**: The target repository for storing and analyzing the processed data.
 - **BI Tools**: Business Intelligence tools for creating analytical dashboards.
 
+
+![Ekran görüntüsü 2024-07-06 150642](https://github.com/ertugrulgaripardic/Sql-For-ERP/assets/118535200/057d6c3b-6721-4028-b272-811411781a5b)
+
+
 ## Getting Started
 
 To get started with this project, clone the repository and follow the steps outlined in the documentation. Ensure that you have the necessary access credentials and tools installed to replicate the data extraction and analysis process.
 
 ```bash
-git clone 
+git clone https://github.com/ertugrulgaripardic/Sql-For-ERP
 ```
 
 ## Contributing
