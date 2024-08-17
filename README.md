@@ -7,7 +7,6 @@ This project demonstrates the process of extracting and analyzing data from the 
 ![WhatsApp Image 2024-07-06 at 15 00 32](https://github.com/ertugrulgaripardic/Sql-For-ERP/assets/118535200/bb5bfa51-6cdd-4def-bb76-9916619199da)
 
 ## Project Steps
-
 1. **Start**
     - Initiate the data extraction process.
 
