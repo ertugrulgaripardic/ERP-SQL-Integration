@@ -60,7 +60,6 @@ This project demonstrates the process of extracting and analyzing data from the 
 - **Data Warehouse**: The target repository for storing and analyzing the processed data.
 - **BI Tools**: Business Intelligence tools for creating analytical dashboards.
 
-
 ![Ekran görüntüsü 2024-07-06 150642](https://github.com/ertugrulgaripardic/Sql-For-ERP/assets/118535200/057d6c3b-6721-4028-b272-811411781a5b)
 
 ## Getting Started
