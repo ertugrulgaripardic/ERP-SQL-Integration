@@ -4,7 +4,7 @@
 
 This project demonstrates the process of extracting and analyzing data from the Nebim ERP system, an older and more complex ERP solution. The workflow involves connecting to a remote computer, establishing a secure VPN connection, and executing SQL queries to retrieve the required data. The project then details the steps involved in data mining, ETL processes, data migration, and performance optimization. This comprehensive approach ensures the integration of data into a data warehouse and the creation of analytical dashboards for business intelligence (BI) purposes.
 
-![WhatsApp Image 2024-07-06 at 15 00 32](https://github.com/ertugrulgaripardic/Sql-For-ERP/assets/118535200/bb5bfa51-6cdd-4def-bb76-9916619199da)
+
 
 ## Project Steps
 1. **Start**
