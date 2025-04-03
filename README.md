@@ -8,7 +8,7 @@ This project demonstrates the process of extracting and analyzing data from the 
 
 ## Project Steps
 1. **Start**
-    - Initiate the data extraction process her
+    - Initiate the data extraction process her prp
 
 2. **Connect to Remote Computer**
     - Use Microsoft Terminal Services Client (MSTSC) to establish a remote desktop connection to the target machine hosting the Nebim ERP system.
